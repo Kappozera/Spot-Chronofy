@@ -1,2 +1,2 @@
 # Spot-Chronofy
-It scans through all of your liked albuns/eps/singles in yout spotify library and then it displays all of it in a grap sorted by which year they project came out.
+It scans through all of your liked albuns/eps/singles in your spotify library and then it shows all of it in a graph sorted by the year the project came out.
